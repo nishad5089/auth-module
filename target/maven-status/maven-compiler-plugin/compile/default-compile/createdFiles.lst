@@ -1,0 +1,4 @@
+com\authmodule\commons\model\Users.class
+com\authmodule\commons\service\UserService.class
+com\authmodule\commons\service\impl\UserServiceImpl.class
+com\authmodule\commons\repository\UserRepository.class
